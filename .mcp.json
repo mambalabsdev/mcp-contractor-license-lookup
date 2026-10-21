@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-contractor-license-lookup": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-contractor-license-lookup"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
