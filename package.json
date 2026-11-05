@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-contractor-license-lookup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Contractor License Lookup. Look up contractor licenses or list licensed contractors by trade and city from the California, Texas, Washington, Oregon, and Louisiana state boards: license number, status, expiration, classifications, owners, address, and phone. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {

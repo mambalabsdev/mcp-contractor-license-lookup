@@ -4,7 +4,7 @@
 
 <a href="https://mcprush.com/to/contractor-license-lookup-mcp?ref=badge"><img width="380" height="200" src="https://mcprush.com/badge/contractor-license-lookup-mcp/card.svg" alt="Contractor License Lookup MCP server" /></a>
 
-An MCP server for the Mamba Labs Contractor License Lookup actor on Apify. Give it a state and a trade to list licensed contractors, or a license number or business name to verify one. Each run reads the state licensing board's own public register.
+An MCP server for the Mamba Labs [Contractor License Search, CA, TX, WA, OR, LA](https://apify.com/mambalabs/contractor-license-lookup) actor on Apify. Give it a state and a trade to list licensed contractors, or a license number or business name to verify one. Each run reads the state licensing board's own public register.
 
 ## What's Inside
 
